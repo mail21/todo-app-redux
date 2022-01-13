@@ -1,0 +1,17 @@
+.container__item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container__item > div {
+  padding: 10px 10px;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  width: 100%;
+}
+
+.container__item > button {
+  padding: 10px 10px;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
